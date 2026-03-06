@@ -1,0 +1,21 @@
+# Virtuálne prostredie
+.venv/
+venv/
+env/
+
+# Build súbory
+dist/
+build/
+*.egg-info/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Systémové
+.DS_Store
